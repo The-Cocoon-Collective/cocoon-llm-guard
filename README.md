@@ -12,9 +12,9 @@ Intercepts requests and responses, applies age-profile filters,
 and blocks or sanitizes content that fails the check.
 
 ## Supported Providers (planned)
-- OpenAI
 - Anthropic
 - Google Gemini
+- OpenAI
 - Open-source models via Ollama
 
 ## Quick Start (draft)
